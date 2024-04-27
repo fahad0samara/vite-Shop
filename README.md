@@ -3,7 +3,11 @@
 
 This is a simple web application built with HTML and CSS for a fictional online store called "Showp App". 
 
-## Features
+![screencapture-localhost-5173-2024-04-27-15_07_12](https://github.com/fahad0samara/vite-Shop/assets/90055525/1e068d11-b0bf-4340-86fc-c71b3c79c9ab)
+
+
+## Features 
+
 
 - Responsive design
 - Home, Shop, About, Services, Products, and Contact sections
@@ -11,10 +15,7 @@ This is a simple web application built with HTML and CSS for a fictional online 
 - About Us, Services, and Contact sections with relevant information
 - Footer with copyright information
 
-## Screenshots
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
 
 ## How to Run
 
